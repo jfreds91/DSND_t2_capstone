@@ -1,0 +1,90 @@
+name: dog-project
+channels:
+- defaults
+dependencies:
+- anaconda-client
+- bleach
+- bzip2
+- clyent
+- colorama
+- cycler
+- decorator
+- entrypoints
+- freetype
+- h5py
+- hdf5
+- html5lib
+- icu
+- ipykernel
+- ipython
+- ipython_genutils
+- ipywidgets
+- jinja2
+- jpeg
+- jsonschema
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- libpng
+- libtiff
+- markupsafe
+- matplotlib
+- mistune
+- mkl
+- nb_conda
+- nb_conda_kernels
+- nbconvert
+- nbformat
+- notebook
+- numpy
+- olefile
+- openssl
+- pandocfilters
+- path.py
+- pickleshare
+- pillow
+- pip
+- prompt_toolkit
+- pygments
+- pyparsing
+- pyqt
+- python-dateutil
+- pytz
+- pyyaml
+- pyzmq
+- qt
+- qtconsole
+- requests
+- scikit-learn
+- scipy
+- setuptools
+- simplegeneric
+- sip
+- six
+- testpath
+- tk
+- tornado
+- traitlets
+- vs2015_runtime
+- wcwidth
+- wheel
+- widgetsnbextension
+- win_unicode_console
+- zlib
+- pip:
+  - ipython-genutils==0.1.0
+  - jupyter-client==5.0.0
+  - jupyter-console==5.1.0
+  - jupyter-core==4.3.0
+  - keras==2.0.2
+  - nb-anacondacloud==1.2.0
+  - nb-conda==2.0.0
+  - nb-conda-kernels==2.0.0
+  - opencv-python==3.1.0.0
+  - prompt-toolkit==1.0.13
+  - protobuf==3.2.0
+  - tensorflow-gpu==1.0.1
+  - theano==0.9.0
+  - tqdm==4.11.2
+  - win-unicode-console==0.5
