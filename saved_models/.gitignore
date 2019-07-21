@@ -1,2 +1,4 @@
 weights.best.Xception.hdf5
 weights.best.InceptionV3.hdf5
+weights.best.VGG19.hdf5
+weights.best.ResNet50.hdf5
