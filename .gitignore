@@ -6,3 +6,4 @@ saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
 dog_app-Copy1.ipynb
+Flickr-Creds.txt
