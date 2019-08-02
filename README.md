@@ -11,7 +11,7 @@ Several methods were tested for dog breed recognition.
 2. Dense Network built on Bottleneck features from keras models
 3. Keras built-in model with custom dense output layers, trained on augmented image data
 
-**[Full Description](https://medium.com/p/22d8ed0b16c5/edit)**
+**[Full Description](https://medium.com/@jessefredrickson/dog-breed-prediction-using-cnns-and-transfer-learning-22d8ed0b16c5?sk=0fdf0abe599ad2981f591ce10fec7c24)**
 
 ## Results
 Using bottleneck features, I was able to achieve ~83% accuracy on the test set with .80 recall and .80 precision over all classes.
