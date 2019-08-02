@@ -14,27 +14,27 @@ Several methods were tested for dog breed recognition.
 **[Full Description](https://medium.com/p/22d8ed0b16c5/edit)**
 
 ## Files
-**dog-project**
-├── **bottleneck_features**
-. . . . . └── < empty > *(bottleneck features, downloaded)*
-├── **dogImages**
-. . . . . ├── **train**
-. . . . . . . . . . └── *(training images)*
-. . . . . ├── **test**
-. . . . . . . . . . └── *(testing images)*
-. . . . . └── **valid**
-. . . . . . . . . . └── *(validation images)*
-├── **haarcascades**
-. . . . . └── haarcascade_frontalface_alt.xml *(opencv3 pretained params)*
-├── **lfw**
-. . . . . └── *(opencv3 face recognition testing images)*
-├── **requirements** *(not used)*
-├── **saved_models**
-. . . . . └── weights.best.groundup_5.hdf5 *(augmented image pretrained params)*
-├── dog_app.ipynb *(primary working file)*
-├── dog_app.html *(html printout of similar ipynb)*
-├── dog_breeds.yml *(conda environment)*
-└── README.md *(you're reading it!)*
+**dog-project**<br>
+├── **bottleneck_features**<br>
+. . . . . └── < empty > *(bottleneck features, downloaded)*<br>
+├── **dogImages**<br>
+. . . . . ├── **train**<br>
+. . . . . . . . . . └── *(training images)*<br>
+. . . . . ├── **test**<br>
+. . . . . . . . . . └── *(testing images)*<br>
+. . . . . └── **valid**<br>
+. . . . . . . . . . └── *(validation images)*<br>
+├── **haarcascades**<br>
+. . . . . └── haarcascade_frontalface_alt.xml *(opencv3 pretained params)*<br>
+├── **lfw**<br>
+. . . . . └── *(opencv3 face recognition testing images)*<br>
+├── **requirements** *(not used)*<br>
+├── **saved_models**<br>
+. . . . . └── weights.best.groundup_5.hdf5 *(augmented image pretrained params)*<br>
+├── dog_app.ipynb *(primary working file)*<br>
+├── dog_app.html *(html printout of similar ipynb)*<br>
+├── dog_breeds.yml *(conda environment)*<br>
+└── README.md *(you're reading it!)*<br>
 
 ## Usage
 In order to recreate the experiments I perform in dog_app.ipynb, you will need to recreate my conda environment using the 'dog_breeds.yml' file.
