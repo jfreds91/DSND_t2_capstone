@@ -14,7 +14,7 @@ Several methods were tested for dog breed recognition.
 **[Full Description](https://medium.com/p/22d8ed0b16c5/edit)**
 
 ## Results
-Using bottleneck features, I was able to achieve ~81% accuracy on the test set with .80 recall and .80 precision over all classes.
+Using bottleneck features, I was able to achieve ~83% accuracy on the test set with .80 recall and .80 precision over all classes.
 
 ## Files
 **dog-project**<br>
