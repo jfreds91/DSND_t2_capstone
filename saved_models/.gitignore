@@ -1,2 +1,3 @@
 *.hdf5
 *.h5
+!weights.best.groundup_5.hdf5
